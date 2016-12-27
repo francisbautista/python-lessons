@@ -1,7 +1,7 @@
 # python-lessons
 Series of Python notebooks for teaching and reference purposes.
 
-Forked off [Kuleshov and Caswell](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) and modified for Python3.
+Forked off [Kuleshov and Caswell](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) and modified for Python3 Added a few other notebooks like MPL and Pandas for coverage purposes.
 
 It includes the following:
 * Introduction to Python
